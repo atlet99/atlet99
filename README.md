@@ -19,4 +19,4 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iuhman)
 
-<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=atlet99&color=blueviolet&style=plastic&label=profile views" />
+<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=atlet99&color=blueviolet&style=plastic&label=views" />
