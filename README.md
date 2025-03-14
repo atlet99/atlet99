@@ -4,7 +4,7 @@
 💻 I'm a DevOps Enthusiast.
 
 ### 🛠 Languages
-[![Atlet99's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atlet99&layout=compact&hide_border=true)](https://github.com/codesshaman?tab=repositories)</br>
+[![Atlet99's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atlet99&layout=compact&hide_border=true)](https://github.com/atlet99?tab=repositories)</br>
 
 ### 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlet99&theme=material_palenight)
