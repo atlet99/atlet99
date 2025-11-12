@@ -6,6 +6,10 @@
 ### 🛠 Languages
 [![Atlet99's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atlet99&layout=compact&hide_border=true)](https://github.com/atlet99?tab=repositories)</br>
 
+### 💻 Coding Stats
+![](https://www.codewars.com/users/atlet99/badges/small)
+[![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fp4chman&logo=leetcode&logoColor=yellow)](https://leetcode.com/p4chman/)
+
 ### 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlet99&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atlet99&theme=material_palenight)
