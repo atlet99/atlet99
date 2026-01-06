@@ -1,26 +1,33 @@
 # 👋 Hi, folks
 
-## 😎 About Me:
+## 😎 About Me
+
 💻 I'm a DevOps Enthusiast.
 
-### 🛠 Languages
-[![Atlet99's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atlet99&layout=compact&hide_border=true)](https://github.com/atlet99?tab=repositories)</br>
+---
 
-### 💻 Coding Stats
-![](https://www.codewars.com/users/atlet99/badges/small)
-[![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fp4chman&logo=leetcode&logoColor=yellow)](https://leetcode.com/p4chman/)
+## 🛠 Languages
 
-### 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlet99&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atlet99&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atlet99&theme=material_palenight)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlet99&theme=material_palenight)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atlet99&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atlet99&theme=material_palenight&utcOffset=5)
 
-[![atlet99 Github stats](https://github-readme-stats.vercel.app/api?username=atlet99&theme=material-palenight&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/atlet99?tab=repositories)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atlet99&theme=material-palenight&hide_border=true)](https://github.com/atlet99)
 
-### ☎️ Connect with me
+---
+
+## ☎️ Connect with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iuhman)
+
+---
 
 <img alt="views" src="https://komarev.com/ghpvc/?username=atlet99&color=blueviolet&style=plastic&label=views" />
