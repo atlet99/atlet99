@@ -30,4 +30,11 @@
 
 ---
 
+## 💰 Support me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I81X6E3R)
+
+---
+
+
 <img alt="views" src="https://komarev.com/ghpvc/?username=atlet99&color=blueviolet&style=plastic&label=views" />
